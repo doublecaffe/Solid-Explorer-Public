@@ -13,7 +13,7 @@
     <string name="Invalid_master_password">Senha mestra inválida</string>
     <string name="Unable_to_execute_shell_command">Impossível executar linha de comando</string>
     <string name="No_root_access_available">Sem acesso root disponível</string>
-    <string name="Unable_to_read_root_directory">Impossível ler pasta raiz</string>
+    <string name="Unable_to_read_root_directory">Impossível ler pasta raíz</string>
     
     <string name="Operation_has_failed">A operação falhou</string>
     <string name="Invalid_file_path">Caminho inválido</string>
