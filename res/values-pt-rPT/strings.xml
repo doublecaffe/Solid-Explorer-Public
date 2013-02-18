@@ -72,7 +72,7 @@
     <string name="Modified_date">Data</string>
     <string name="Ascending">Ascendente</string>
     <string name="Descending">Descendente</string>
-    <string name="In_order">In order</string>
+    <string name="In_order">Em ordem</string>
     
     <!-- Browser switch popup -->
     <string name="Active_browser">Browser ativo</string>
@@ -204,7 +204,7 @@
     <!-- File sharing -->
     <string name="File_sharing_active">Partilha de ficheiros ativa</string>
     <string name="ftp_server_hint">Para se ligar, digite o endereço do servidor no Explorador do Windows ou utilize um cliente de FTP.</string>
-    <string name="You_cannot_share_root_directory">Não pode partilhar a pasta de raiz</string>
+    <string name="You_cannot_share_root_directory">Não pode partilhar a pasta de raíz</string>
     <string name="File_sharing_stopped">Partilha interrompida</string>
     <string name="None">Nenhuma</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">Tem que estar ligado à rede LAN</string>
@@ -272,7 +272,7 @@
     <string name="Owner">Proprietário</string>
     <string name="Group">Grupo</string>
     <string name="Others">Outros</string>
-    <string name="Owners">OProprietários</string>
+    <string name="Owners">Proprietários</string>
     <string name="Permissions">Permissões</string>
     <string name="Set">Definir</string>
     <string name="Used_space">Espaço utilizado</string>
@@ -308,7 +308,7 @@
     	<string name="Remember_action">Lembrar ação</string>
     	<string name="Keep_the_old_file">Manter ficheiro antigo</string>
     	<string name="The_new_file_will_have_its_name_changed">O novo ficheiro terá o nome alterado</string>
-    	<string name="Replace_the_file_with_this">Substituir o ficheiro com este</string>
+    	<string name="Replace_the_file_with_this">Substituir o ficheiro por este</string>
     	<string name="Create_master_password">Criar senha mestra</string>
     	
     	<string name="Choose_an_activity_to_open_the_file">Escolha uma atividade para abrir o ficheiro</string>
@@ -526,7 +526,7 @@
     <string name="Extra_small">Minúsculo</string>
     
     <string name="Hide_exit_button">Ocultar botão Sair</string>
-    <string name="Hide_exit_button_summary">Também pode sair do aplicativo pressionando longamente a tecla de retorno</string>
+    <string name="Hide_exit_button_summary">Também pode sair da aplicação pressionando longamente a tecla de retorno</string>
     
     <string name="Startup">Início</string>
     
@@ -657,7 +657,7 @@
     <string name="Icon_designer">Designer do ícone</string>
     <string name="Prefix">Prefixo</string>
     <string name="Translations">Tradução</string>
-    <string name="Translations_summary">Correção da linguagem por cortezia de Steven Schoen</string>
+    <string name="Translations_summary">Correção da linguagem por cortesia de Steven Schoen</string>
     <string name="Empty">Vazio</string>
-    <string name="Press_once_again_to_exit">Precione novamente para sair</string>
+    <string name="Press_once_again_to_exit">Pressione novamente para sair</string>
 </resources>
