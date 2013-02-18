@@ -661,3 +661,150 @@
     <string name="Empty">Vazio</string>
     <string name="Press_once_again_to_exit">Pressione novamente para sair</string>
 </resources>
+
+<string name="View_in_DiskUsage">Ver no DiskUsage</string>
+    <string name="Retry">Tentar de novo</string>
+    <string name="Portrait">Retrato</string>
+    <string name="Landscape">Paisagem</string>
+    <string name="Customize_list">Personalizar lista</string>
+    <string name="Customize_list_summary">Ajustar tamanho dos ícones e texto na lista de ficheiros</string>
+    <string name="Preview">Pré-visualização</string>
+    <string name="Icon_size_pixels" formatted="false">Tamanho de ícone (max: % x %)</string>
+    <string name="Label_size">Tamanho de etiqueta</string>
+    <string name="Subtext_size">Tamanho de subtexto</string>
+    <string name="Label_size_points">Tamanho de texto (max 35pt)</string>
+    <string name="Columns">Colunas</string>
+    <string name="No_computers_found">Não foram encontrados computadores</string>
+    <string name="Local_directory">Directório local</string>
+    <string name="Default_panel">Painel padrão</string>
+    <string name="Destination_type">Tipo de destino</string>
+    <string name="DiskUsage_not_installed">O DiskUsage não está instalado. Esta aplicação mostra o uso de memória de uma forma muito sofisticada e fácil de usar. Pretende instalar agora?</string>
+    <string name="Text_copied_to_clipboard">Texto copiado para a área de transferência</string>
+    <string name="Force_english">Forçar idioma Inglês</string>
+    <string name="Force_english_summary">Selecione se preferir o Inglês como idioma principal. Tem efeito após reiniciar.</string>
+    <string name="Encoding">Codificação</string>
+    <string name="Network_thumbnails">Miniaturas de rede</string>
+    <string name="Network_thumbnails_summary">Quando marcado, miniaturas de imagem serão carregadas ao usar ligação de dados móvel.</string>
+    <string name="Copy_to">Copiar para</string>
+    <string name="Move_to">Mover para</string>
+    <string name="Shortcut">Atalho</string>
+    <string name="Two_panels_in_landscape_summary">Mostrar dois painéis em simultâneo quando em paisagem</string>
+    <string name="Two_panels_in_landscape">Dois painéis em paisagem</string>
+    <string name="Restart_prompt">A aplicação tem de ser reiniciada para aplicar as alterações. Continuar?</string>
+    <string name="Custom_color_scheme">Esquema de cores personalizado</string>
+    <string name="Custom_color_scheme_summary">Personalizar esquema de cores global. Irá desacelerar dramaticamente o arranque da aplicação.</string>
+    <string name="Color_scheme">Esquema de cores</string>
+    <string name="Color_scheme_summary">Alterar matiz e saturação do atual esquema de cores</string>
+    <string name="Change_color_scheme">Alterar esquema de cores</string>
+    <string name="Hue">Matiz</string>
+    <string name="Saturation">Saturação</string>
+    <string name="SolidExplorer_is_running">Solid Explorer em funcionamento</string>
+    <string name="Notification_shortcut">Atalho de notificação</string>
+    <string name="Notification_shortcut_summary">Colocar atalho na Barra de Estado quando a aplicação é executada em segundo plano</string>
+    <string name="Please_wait">Por favor, aguarde</string>
+    
+    
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Tem certeza que deseja copiar isto para o painel oposto?</string>
+<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Tem certeza que deseja mover isto para o painel oposto?</string>
+<string name="Image_not_loaded">Imagem não carregada</string>
+<string name="Target_SDK">Destino SDK</string>
+<string name="Description">Descrição</string>
+<string name="Data_dir">Dir dados</string> <!-- short word please -->
+<string name="Installed">Instalado</string>
+<string name="Updated">Atualizado</string>
+<string name="Install">Instalado</string>
+<string name="More">Mais</string>
+<string name="Package_name">Nome do pacote</string>
+<string name="Map_view">Vista de mapa</string>
+<string name="Street_view">Street view</string>
+<string name="Ask">Perguntar</string>
+<string name="Choose_an_action">Escolher uma ação</string>
+<string name="Folders_first">Pastas primeiro</string>
+<string name="Folders_first_summary">Mostrar pastas primeiro, depois os ficheiros.</string>
+<string name="FAQ">FAQ</string>
+<string name="FAQ_summary">Por favor, leia a FAQ antes de perguntar</string>
+
+<!-- v 1.3.8 -->
+<string name="Quick_config">Configuração rápida</string> <!-- short word please -->
+
+<!-- Now multiple patterns are supported so you can correct previous patterns
+if more than one noun in a sentence is affected -->
+     <string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} e %y file{1:|__:s} apagados.</string>
+     <string name="X_folders_and_Y_files_copied">%x folder{1:|__:s} e %y file{1:|__:s} copiados.</string>
+     <string name="X_folders_and_Y_files_moved">%x folder{1:|__:s} e %y file{1:|__:s} movidos.</string>
+     <string name="Deleting_X_folders_and_Y_files">A apagar %x folder{1:|__:s} e %y file{1:|__:s}</string>
+     <string name="Copying_X_folders_and_Y_files">A copiar %x folder{1:|__:s} e %y file{1:|__:s}</string>
+     <string name="Moving_X_folders_and_Y_files">A mover %x folder{1:|__:s} e %y file{1:|__:s}</string>
+    
+     <string name="X_folders_moved">% folder{1:|__:s} movida.</string>
+     <string name="Moving_X_folders">A mover % folder{1:|__:s}</string>
+    
+     <string name="X_folders">% folder{1:|__:s}</string>
+     <string name="X_files">% file{1:|__:s}</string>
+    
+     <string name="Show_status_summary">Mostrar informação sobre o conteúdo do diretório e espaço usado na janela do explorador</string>
+     <string name="Show_status">Mostrar estado</string>
+     <string name="Mount_rw">Montar r/w</string>
+     <string name="System_mounted_as_read_write">Sistema montado como leitura/escrita</string>
+     <string name="System_mounted_as_read_only">Sistema montado apenas como leitura</string>
+    
+    <!-- v 1.3.9 -->
+     <string name="Device_labels">Nomes de dispositivo</string>
+     <string name="Device_labels_summary">Mostrar nomes de dispositivo intuitivos em vez de nomes de diretórios reais, ex. \&quot;cartão SD\&quot; em vez de \&quot;sdcard0\&quot;</string>
+     <string name="Swap_device_labels">Trocar nomes de dispositivos</string>
+     <string name="Swap_device_labels_summary">Trocar memória interna por nomes de cartão SD em caso de detecção incorreta.</string>
+     <string name="Panels">Painéis</string>
+     <string name="Devices">Dispositivos</string>
+     <string name="Bug_report_notice">Antes de reportar um bug, por favor faça o seguinte:\n\n<b>1. Verifique se o problema existe noutras aplicações de gestão de ficheiros.\n2. Leia a FAQ.</b>\n\nconcluiu os passos acima?</string>
+     <string name="Unable_to_move_the_file">Não é possível mover o ficheiro %</string>
+    
+    <!-- v 1.4.0 -->
+     <string name="Compression_ratio">Taxa de compressão</string>
+     <string name="Compression_method">Método de compressão</string>
+     <string name="Comment">Comentário</string>
+     <string name="Standard">Standard</string>
+     <string name="No_compression">Sem compressão</string>
+     <string name="A_while_ago">Instantes atrás</string>
+     <string name="X_hours_Y_minutes_ago">%x hour{1:|__:s} %y minute{1:|__:s} atrás</string>
+     <!-- Already exists, just changed the content -->
+     <string name="Expiration_message">Obrigado por utilizar o Solid Explorer. Para continuar a usar esta aplicação, pague-me uma cerveja virtual adquirindo o desbloqueio através do Google Play. Faça-o apenas quando estiver totalmente satisfeito com a aplicação.</string>
+     <string name="Purchased_message">Obrigado por adquirir a versão completa do Solid Explorer. Espero que goste.</string>
+     <string name="Trial_expired">Período de teste terminado</string>
+     <string name="Purchase">Adquirir</string>
+     <string name="No_thanks">Não, obrigado</string>
+     <string name="Function_not_available">Esta função não está disponível na versão atual do sistema</string>
+    
+    <!-- v 1.4.3 -->
+     <string name="Wallpaper_has_been_set_successfully">Wallpaper definido com sucesso padrão</string>
+     <string name="X_has_been_set_as_default_ringtone">% foi definido como toque padrão</string>
+     <string name="X_has_been_set_as_default_notification">% foi definido como som de notificação padrão</string>
+     <string name="X_has_been_set_as_default_alarm">% foi definido como som de alarme padrão</string>
+     <string name="Copy_path">Copiar caminho</string>
+     <string name="Copy_name">Copiar nome</string>
+     <string name="Create_symlink">Criar symlink</string>
+     <string name="Set_as_wallpaper">Definir como wallpaper</string>
+     <string name="Set_as_ringtone">Definir como toque</string>
+     <string name="Set_as_notification">Definir como notificação</string>
+     <string name="Set_as_alarm">Definir como alarme</string>
+     <string name="Enter_the_symlink_location">Inserir localização do symlink</string>
+     <string name="Symbolic_link_created_successfully">Symlink criado com sucesso</string>
+     <string name="Sugarsync_login">Entrar no SugarSync</string>
+     <string name="Copy_link">Copiar link</string>
+     <string name="Data_backup">Backup de dados</string>
+     <string name="Application_data">Dados de aplicação</string>
+     <string name="Create_backup">Criar backup</string>
+     <string name="Backup_application_data_to_a_desired_file">Backup de dados da aplicação para um ficheiro desejado</string>
+     <string name="Restore_backup">Recuperar backup</string>
+     <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Escolher ficheiro de backup a partir do qual os dados serão restaurados</string>
+     <string name="Data_backup_created">Backup de dados criado</string>
+     <string name="Data_backup_restored">Backup de dados restaurado</string>
+     <string name="Support">Suporte</string>
+     <string name="Support_summary">Visitar página de suporte do Solid Explorer</string>
+     <string name="Experimental_feature_notifier">Por favor, note que este recurso é experimental e provavelmente não vai funcionar corretamente na sua versão Android atual.</string>
+     <string name="Trial_check_notice">O Solid Explorer não conseguiu verificar período de teste. Por favor, ative a ligação à internet agora ou durante os próximos 2 dias. Caso contrário, o seu período de teste irá terminar.</string>
+     <string name="Back_goes_to_root">Retorno para voltar à raíz</string>
+     <string name="Back_goes_to_root_summary">Permitir voltar à raíz do diretório ao tocar no botão Retorno</string>
+     <string name="Keep_the_screen_on">Manter ecrã ligado</string>
+     <string name="Keep_the_screen_on_summary">Manter ecrã ligado durante transferência de ficheiros. Selecione se verificar transferências lentas com o ecrã desligado.</string>
+
+</resources>
