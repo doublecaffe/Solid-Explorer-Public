@@ -38,5 +38,18 @@
     <string name="Unable_to_connect_to_the_x">Impossível ligar a %x.</string>
     <string name="Unknown_error">Erro desconhecido</string>
     <string name="Cannot_create_directory_X">Impossível criar pasta \&quot;%x\&quot;</string>
+    <string name="Unable_to_start_the_service_on_port_x">Não foi possível iniciar o serviço na porta %</string>
+    
+    <string name="Invalid_position">Posição inválida</string>
+    <string name="Unable_to_delete_file_x">Não foi possível apagar o ficheiro %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Não foi possível montar o sistema como leitura/escrita</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Não foi possível montar o sistema apenas como leitura</string>
+    <string name="Access_denied">Acesso negado</string>
+    <string name="Unable_to_find_an_activity_to_complete_this_action">Não foi possível encontrar uma atividade para concluir esta ação</string>
+    <string name="Unable_to_set_the_wallpaper">Não foi possível definir o wallpaper</string>
+    
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">O desbloqueador foi encontrado, mas deu erro. Isto geralmente acontece quando outra aplicação bloqueia as permissões, ex. software antivírus. Certifique-se o Solid Explorer e o desbloqueador são excluídos de quaisquer listas negras e inicie novamente a aplicação.</string>
+    <string name="Unable_to_get_the_link">Não foi possível obter link</string>
     
 </resources>
